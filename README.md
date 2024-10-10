@@ -27,7 +27,26 @@ Setup Vultr: Booting up my Windows OS. Installing osTicket. <br/>
 
 <br />
   
-After setting up my account, I head over to products and create my VPC.<br/>
+Configuring custom firewall rules on my Windows device. <br/>
+<img src="https://i.imgur.com/eDvBvvp.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/UT9G3QD.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+  
+Installing Xampp Apache distribution for the osTicket backend database. I also tweak some of the configuration files to match the Ip address of my Windows machine.<br/>
+<img src="https://i.imgur.com/CYlAO3r.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/nmaxOlM.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/w6bTGdl.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/yrMqNpo.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/XzLHS6k.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/HUal7jm.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Loading into the Xampp control center. Creating the osTicket database and admin privileges.<br/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <br />
