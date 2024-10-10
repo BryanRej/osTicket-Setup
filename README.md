@@ -43,6 +43,31 @@ Installing Xampp Apache distribution for the osTicket backend database. I also t
 <br />
 
 Loading into the Xampp control center. Creating the osTicket database and admin privileges.<br/>
+<img src="https://i.imgur.com/WfS8IQy.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/UW4w9qa.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/4TQ9v7o.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/pVeiV68.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/EiFWcUe.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/6I2J0Co.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Adding my osTicket server to my SOC virtual private cloud containing other devices. Only specified IPs will have access to the osTicket server.<br/>
+<img src="https://i.imgur.com/V8G66r4.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Visiting the osTicket web setup page. Setting up the environment.<br/>
+<img src="https://i.imgur.com/gVWC9oT.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/7opNVC1.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Adding the missing configuration file to complete the osTicket web installation. I need to open a Powershell environment to configure the proper file.<br/>
+<img src="https://i.imgur.com/TUgEXU2.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/8bBtOr1.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/EwsKJTW.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/jMc2iCy.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Loading into the Xampp control center. Creating the osTicket database and admin privileges.<br/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
