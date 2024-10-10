@@ -67,11 +67,9 @@ Adding the missing configuration file to complete the osTicket web installation.
 <img src="https://i.imgur.com/jMc2iCy.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Loading into the Xampp control center. Creating the osTicket database and admin privileges.<br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+Logging into the osTicket web page and viewing the admin panel page. There is already one event logged which indicates the successful installation of osTicket. I can now start to add tickets or users as I choose.<br/>
+<img src="https://i.imgur.com/1nbzYPy.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/68RHcQd.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/SDfh14X.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/AN8JW6w.png" height="80%" width="80%" alt="Setup"/>
 <br />
