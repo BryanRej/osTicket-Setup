@@ -12,7 +12,7 @@ This project is an extension of the SOC Homelab project and uses a Windows 2022 
 
 <h2>Environments Used </h2>
 
-- <b>Vultr Cloud, Windows 2022 Standard, </b> 
+- <b>Vultr Cloud, Windows 2022 Standard, RDP </b> 
 
 <h2>Project walk-through:</h2>
   
