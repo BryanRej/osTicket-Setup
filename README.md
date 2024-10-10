@@ -1,7 +1,7 @@
 <h1>osTicket Setup</h1>
 
 <h2>Description</h2>
-This project is an extension of the SOC Homelab project and uses a Windows 2022 Standard operating system. It is made to simulate a help desk environment though an admin view.
+This project is an extension of the SOC Homelab project and uses a Windows 2022 Standard operating system. It is made to simulate a help desk environment through an admin view.
 <br />
 
 
@@ -16,8 +16,12 @@ This project is an extension of the SOC Homelab project and uses a Windows 2022 
 
 <h2>Project walk-through:</h2>
   
-Setup Vultr: Booting up my Windows OS. <br/>
-<img src="https://i.imgur.com/x2ZGp65.png" width="80%" alt="Setup"/>
+Setup Vultr: Booting up my Windows OS. Installing osTicket. <br/>
+<img src="https://i.imgur.com/169UIFO.png" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/TKRTOIb.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/AK6Xqs9.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/J50zDSe.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/5iNVKoB.png" height="80%" width="80%" alt="Setup"/>
 <br />
 <br />
 
